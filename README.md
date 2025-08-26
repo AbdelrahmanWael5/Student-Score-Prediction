@@ -8,7 +8,7 @@ The goal of this project is to show how study habits and career goals impact the
 - Pandas
 - NumPy
 - scipy
-- Scikit-learn
+- Scikit-learn (for preprocessing)
 - Matplotlib / Seaborn (for visualization)
 - Jupyter Notebook
 
